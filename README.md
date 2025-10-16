@@ -12,5 +12,5 @@ Discover how quantum computing is transforming agriculture with technologies lik
 
 
 
-# Next Lecture on: 22.10.2025 by IBM, Quantum
+# Next Lecture on: 22.10.2025 at 3:00 to 4:00 PM by IBM, Quantum
 
