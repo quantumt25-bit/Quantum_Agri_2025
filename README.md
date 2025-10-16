@@ -11,3 +11,6 @@ Discover how quantum computing is transforming agriculture with technologies lik
 •	Quantum Optimization – finding optimal solutions faster and more efficiently 🎯
 
 
+
+# Next Lecture on: 22.10.2025 by IBM, Quantum
+
