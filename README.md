@@ -15,5 +15,5 @@ Discover how quantum computing is transforming agriculture with technologies lik
 •	Quantum Optimization – finding optimal solutions faster and more efficiently 🎯
 
 
-# Next Lecture on: 22.10.2025 at 3:00 to 4:00 PM by IBM, Quantum
+# Next Lecture on: 24.10.2025 at 3:00 to 4:00 PM by Poornaprajna Institute of Scientific Research (PPISR), Bangalore
 
